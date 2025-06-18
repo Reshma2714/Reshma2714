@@ -64,17 +64,20 @@ Kishinchand Chellaram College, Mumbai
 🗓️ 2021 – 2024 | CGPA: 9.2 / 10
 
 **Higher Secondary Certificate (HSC)**  
-Thomas Baptista Junior College – 90%  
+Thomas Baptista Junior College, Mumbai 
+🗓️ 2019 – 2021 | Achieved Score: 90%
+
 **Secondary School Certificate (SSC)**  
-St. Francis High School – 86%
+St. Francis High School, Mumbai
+🗓️ 2019 | Achieved Score: 86%
 
 ---
 
 ## 🧩 Currently Learning
 
 - Predictive Modeling & ML Algorithms  
-- Azure Fundamentals for Data Projects  
 - Business Case Studies (EDA + SQL + BI Dashboards)
+- GenAI Basics
 
 ---
 
@@ -88,7 +91,7 @@ St. Francis High School – 86%
 
 ## 🎯 Career Goals
 
-I'm looking to join a data-driven team where I can apply my analytical skills, grow with mentorship, and contribute to impactful business decisions. I’m especially excited about working in industries like **e-commerce, finance, healthtech, and sports analytics**.
+I'm looking to join a data-driven team where I can apply my analytical skills, grow with mentorship, and contribute to impactful business decisions.
 
 ---
 
