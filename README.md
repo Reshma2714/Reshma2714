@@ -9,7 +9,7 @@
 
 I'm an enthusiastic and highly motivated **BSc IT graduate** specializing in **Data Science and Analytics**. I enjoy working with real-world datasets to uncover patterns, drive insights, and support data-driven decisions.
 
-My core skills include **SQL, Python, Power BI, Tableau, Advanced Excel, and Pandas**, with growing expertise in **Machine Learning** and **Cloud Technologies (Azure)**.
+My core skills include **SQL, Python, Power BI, Tableau, Advanced Excel, and Pandas**, with growing expertise in **Machine Learning** and **Data Science**.
 
 I'm actively building end-to-end projects using tools widely used in the industry and constantly upskilling through hands-on learning, online courses, and certifications.
 
