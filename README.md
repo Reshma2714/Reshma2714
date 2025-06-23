@@ -33,6 +33,11 @@ I'm actively building end-to-end projects using tools widely used in the industr
 
 ## 📁 Projects
 
+### 🔹 [Smart URL Answer Bot (Gen AI)](https://github.com/Reshma2714/SMART-URL-ANSWER-BOT)
+- Designed and implemented a Retrieval-Augmented Generation (RAG) system leveraging LangChain, ChromaDB, and HuggingFace embeddings to extract contextual answers from live web content.
+- Integrated LLaMA 3 via Groq API with a semantic retriever to enable real-time question answering with accurate source attribution from unstructured URLs.
+- Deployed an interactive Streamlit interface allowing end users to input URLs, trigger dynamic document parsing, and query web content using large language models.
+
 ### 🔹 [Superstore Sales Dashboard (Power BI + Pandas)](https://github.com/Reshma2714/SuperStore-Sales)
 - Cleaned and analyzed 4,000+ records from a Kaggle dataset.
 - Built an interactive Power BI dashboard with filters for region, segment, and product categories.
