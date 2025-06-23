@@ -77,7 +77,7 @@ St. Francis High School, Mumbai
 
 - Predictive Modeling & ML Algorithms  
 - Business Case Studies (EDA + SQL + BI Dashboards)
-- GenAI Basics
+- Generative AI
 
 ---
 
